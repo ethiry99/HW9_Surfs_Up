@@ -18,8 +18,8 @@
 ### The analysis confirms that the surf and ice cream shop business proposal is a sound one and will be sure to be a profitable venture for all involved parties.  The sooner the plans can be put into motion the better for all.  Especially the hungry surfers among the population!
 
 * ### Additional Analysis
-- ### If there are more questions perhaps an analysis could be done to chart the temperatures throughout the entire year.  Are all the months as sustainable as June and December?
-- ### Another possibility would be to chart the tempuratures over the years of data that is available.  Is climate change moving in one direction or another that could affect the sustainability of this venture?
+  - ### If there are more questions perhaps an analysis could be done to chart the temperatures throughout the entire year.  Are all the months as sustainable as June and December?
+  - ### Another possibility would be to chart the tempuratures over the years of data that is available.  Is climate change moving in one direction or another that could affect the sustainability of this venture?
 
 
 
